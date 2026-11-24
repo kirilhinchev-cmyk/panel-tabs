@@ -1,0 +1,7 @@
+{
+  "name": "panel-tabs",
+  "version": "0.1.0",
+  "description": "A pane with three tabs (Бележки, Палитра, Списък) that remembers the selected tab for the session; opened with /tabs.",
+  "author": { "name": "lilhini" },
+  "types": "./types/index.d.ts"
+}
